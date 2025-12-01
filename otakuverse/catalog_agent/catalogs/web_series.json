@@ -1,0 +1,74 @@
+[
+  {
+    "id": "series_001",
+    "title": "Stranger Things",
+    "type": "web_series",
+    "genres": ["sci-fi", "horror", "drama"],
+    "mood": ["thrilling", "nostalgic", "intense"],
+    "rating": 8.7,
+    "description": "A group of friends face off against supernatural forces in a small town"
+  },
+  {
+    "id": "series_002",
+    "title": "The Crown",
+    "type": "web_series",
+    "genres": ["drama", "historical", "biography"],
+    "mood": ["elegant", "dramatic", "intricate"],
+    "rating": 8.6,
+    "description": "The reign of Queen Elizabeth II and the events that shaped the British monarchy"
+  },
+  {
+    "id": "series_003",
+    "title": "Breaking Bad",
+    "type": "web_series",
+    "genres": ["crime", "drama", "thriller"],
+    "mood": ["intense", "dark", "addictive"],
+    "rating": 9.5,
+    "description": "A chemistry teacher turned drug lord builds an empire"
+  },
+  {
+    "id": "series_004",
+    "title": "The Mandalorian",
+    "type": "web_series",
+    "genres": ["sci-fi", "action", "adventure"],
+    "mood": ["epic", "cool", "thrilling"],
+    "rating": 8.7,
+    "description": "A lone bounty hunter operates in the outer reaches of the Star Wars galaxy"
+  },
+  {
+    "id": "series_005",
+    "title": "Squid Game",
+    "type": "web_series",
+    "genres": ["thriller", "drama"],
+    "mood": ["intense", "dark", "suspenseful"],
+    "rating": 8.0,
+    "description": "Hundreds of cash-strapped players accept an invitation to compete in children's games"
+  },
+  {
+    "id": "series_006",
+    "title": "Sherlock",
+    "type": "web_series",
+    "genres": ["mystery", "thriller", "drama"],
+    "mood": ["clever", "thrilling", "witty"],
+    "rating": 9.1,
+    "description": "A brilliant detective and his best friend solve crimes in modern-day London"
+  },
+  {
+    "id": "series_007",
+    "title": "Peaky Blinders",
+    "type": "web_series",
+    "genres": ["crime", "drama", "historical"],
+    "mood": ["intense", "stylish", "dark"],
+    "rating": 8.8,
+    "description": "A gangster family's rise to power in post-war Birmingham"
+  },
+  {
+    "id": "series_008",
+    "title": "The Office",
+    "type": "web_series",
+    "genres": ["comedy", "drama"],
+    "mood": ["funny", "heartwarming", "relatable"],
+    "rating": 9.0,
+    "description": "A comedy series following the lives of office employees in a paper company"
+  }
+]

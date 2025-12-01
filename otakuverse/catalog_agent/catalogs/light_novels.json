@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ln_001",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "type": "light_novel",
+    "genres": ["fantasy", "adventure", "comedy"],
+    "mood": ["fun", "cool", "heartwarming"],
+    "rating": 8.4,
+    "description": "A man reincarnates as a slime and builds a kingdom"
+  },
+  {
+    "id": "ln_002",
+    "title": "Sword Art Online",
+    "type": "light_novel",
+    "genres": ["sci-fi", "action", "adventure"],
+    "mood": ["thrilling", "epic", "cool"],
+    "rating": 8.1,
+    "description": "Players trapped in a virtual reality game must clear 100 floors"
+  },
+  {
+    "id": "ln_003",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "light_novel",
+    "genres": ["romance", "comedy", "supernatural"],
+    "mood": ["heartwarming", "funny", "romantic"],
+    "rating": 8.3,
+    "description": "A high school student encounters girls with supernatural phenomena"
+  },
+  {
+    "id": "ln_004",
+    "title": "Re:Zero Starting Life in Another World",
+    "type": "light_novel",
+    "genres": ["fantasy", "thriller", "drama"],
+    "mood": ["intense", "emotional", "mind-bending"],
+    "rating": 8.2,
+    "description": "A boy gains the ability to turn back time when he dies"
+  },
+  {
+    "id": "ln_005",
+    "title": "The Irregular at Magic High School",
+    "type": "light_novel",
+    "genres": ["sci-fi", "action", "fantasy"],
+    "mood": ["cool", "thrilling", "epic"],
+    "rating": 8.0,
+    "description": "A magical high school enrolls a powerful but considered irregular student"
+  },
+  {
+    "id": "ln_006",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "type": "light_novel",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["fun", "thrilling", "cool"],
+    "rating": 7.9,
+    "description": "A young man adventurer seeks to impress a girl by becoming strong"
+  },
+  {
+    "id": "ln_007",
+    "title": "Overlord",
+    "type": "light_novel",
+    "genres": ["fantasy", "action", "adventure"],
+    "mood": ["cool", "epic", "dark"],
+    "rating": 8.2,
+    "description": "A powerful wizard transported to another world builds an empire"
+  },
+  {
+    "id": "ln_008",
+    "title": "The Rising of the Shield Hero",
+    "type": "light_novel",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "cool", "emotional"],
+    "rating": 8.0,
+    "description": "One of four heroes summoned to save a world seeks redemption"
+  }
+]

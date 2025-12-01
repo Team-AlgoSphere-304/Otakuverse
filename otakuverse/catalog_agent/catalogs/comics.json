@@ -1,0 +1,74 @@
+[
+  {
+    "id": "comic_001",
+    "title": "The Amazing Spider-Man",
+    "type": "comic",
+    "genres": ["superhero", "action", "adventure"],
+    "mood": ["fun", "thrilling", "cool"],
+    "rating": 8.5,
+    "description": "A teenage boy with spider powers fights crime"
+  },
+  {
+    "id": "comic_002",
+    "title": "The Dark Knight Returns",
+    "type": "comic",
+    "genres": ["superhero", "action", "thriller"],
+    "mood": ["dark", "intense", "cool"],
+    "rating": 8.8,
+    "description": "An aging Batman comes out of retirement to save Gotham"
+  },
+  {
+    "id": "comic_003",
+    "title": "Watchmen",
+    "type": "comic",
+    "genres": ["superhero", "thriller", "political"],
+    "mood": ["dark", "complex", "thought-provoking"],
+    "rating": 8.9,
+    "description": "A group of former superheroes investigate a mysterious conspiracy"
+  },
+  {
+    "id": "comic_004",
+    "title": "V for Vendetta",
+    "type": "comic",
+    "genres": ["thriller", "political", "action"],
+    "mood": ["intense", "dark", "powerful"],
+    "rating": 8.7,
+    "description": "A masked vigilante fights against a totalitarian government"
+  },
+  {
+    "id": "comic_005",
+    "title": "X-Men",
+    "type": "comic",
+    "genres": ["superhero", "action", "drama"],
+    "mood": ["thrilling", "cool", "thought-provoking"],
+    "rating": 8.4,
+    "description": "Mutants with powers learn to coexist in a world that fears them"
+  },
+  {
+    "id": "comic_006",
+    "title": "The Avengers",
+    "type": "comic",
+    "genres": ["superhero", "action", "adventure"],
+    "mood": ["epic", "fun", "thrilling"],
+    "rating": 8.3,
+    "description": "Earth's mightiest heroes team up to save the world"
+  },
+  {
+    "id": "comic_007",
+    "title": "Sandman",
+    "type": "comic",
+    "genres": ["fantasy", "drama", "supernatural"],
+    "mood": ["magical", "dark", "emotional"],
+    "rating": 8.6,
+    "description": "The Lord of Dreams faces consequences after being captured for 70 years"
+  },
+  {
+    "id": "comic_008",
+    "title": "Batman: Arkham Asylum",
+    "type": "comic",
+    "genres": ["thriller", "action", "horror"],
+    "mood": ["dark", "intense", "psychological"],
+    "rating": 8.5,
+    "description": "Batman enters an asylum filled with dangerous villains"
+  }
+]

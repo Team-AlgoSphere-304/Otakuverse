@@ -1,0 +1,74 @@
+[
+  {
+    "id": "game_001",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "type": "game",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["fun", "epic", "exploratory"],
+    "rating": 9.3,
+    "description": "An epic adventure across a vast open world to save a princess"
+  },
+  {
+    "id": "game_002",
+    "title": "The Witcher 3: Wild Hunt",
+    "type": "game",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "dark", "immersive"],
+    "rating": 9.1,
+    "description": "A monster hunter searches for his lost love in a world ravaged by war"
+  },
+  {
+    "id": "game_003",
+    "title": "Dark Souls",
+    "type": "game",
+    "genres": ["action", "fantasy", "rpg"],
+    "mood": ["intense", "challenging", "dark"],
+    "rating": 8.8,
+    "description": "A challenging fantasy action game where you face powerful enemies"
+  },
+  {
+    "id": "game_004",
+    "title": "Elden Ring",
+    "type": "game",
+    "genres": ["action", "rpg", "fantasy"],
+    "mood": ["intense", "epic", "challenging"],
+    "rating": 9.0,
+    "description": "A player becomes the Elden Lord in a vast fantasy world"
+  },
+  {
+    "id": "game_005",
+    "title": "Cyberpunk 2077",
+    "type": "game",
+    "genres": ["sci-fi", "action", "rpg"],
+    "mood": ["intense", "immersive", "cool"],
+    "rating": 8.0,
+    "description": "A mercenary in a dystopian future fights against powerful enemies"
+  },
+  {
+    "id": "game_006",
+    "title": "Final Fantasy VII Remake",
+    "type": "game",
+    "genres": ["action", "rpg", "fantasy"],
+    "mood": ["epic", "emotional", "thrilling"],
+    "rating": 8.9,
+    "description": "A group of rebels fight against an evil corporation in a cyberpunk world"
+  },
+  {
+    "id": "game_007",
+    "title": "Ghost of Tsushima",
+    "type": "game",
+    "genres": ["action", "adventure", "samurai"],
+    "mood": ["beautiful", "epic", "intense"],
+    "rating": 8.9,
+    "description": "A samurai fights to protect his homeland from invaders"
+  },
+  {
+    "id": "game_008",
+    "title": "Persona 5",
+    "type": "game",
+    "genres": ["rpg", "action", "drama"],
+    "mood": ["stylish", "fun", "emotional"],
+    "rating": 9.0,
+    "description": "A group of students awaken special powers and fight against corruption"
+  }
+]

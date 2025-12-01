@@ -1,0 +1,74 @@
+[
+  {
+    "id": "manga_001",
+    "title": "One Piece",
+    "type": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "fun", "inspiring"],
+    "rating": 8.8,
+    "description": "A pirate captain sails the seas searching for the legendary treasure"
+  },
+  {
+    "id": "manga_002",
+    "title": "Naruto",
+    "type": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "emotional", "inspiring"],
+    "rating": 8.4,
+    "description": "A ninja boy dreams of becoming the strongest ninja in his village"
+  },
+  {
+    "id": "manga_003",
+    "title": "Death Note",
+    "type": "manga",
+    "genres": ["thriller", "psychological", "supernatural"],
+    "mood": ["intense", "mind-bending", "thrilling"],
+    "rating": 8.6,
+    "description": "A student gains the power to kill anyone by writing their name in a notebook"
+  },
+  {
+    "id": "manga_004",
+    "title": "Fullmetal Alchemist",
+    "type": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "emotional", "inspiring"],
+    "rating": 8.9,
+    "description": "Two brothers use alchemy in their quest for redemption"
+  },
+  {
+    "id": "manga_005",
+    "title": "Attack on Titan",
+    "type": "manga",
+    "genres": ["action", "dark", "supernatural"],
+    "mood": ["intense", "thrilling", "dramatic"],
+    "rating": 8.7,
+    "description": "Humanity fights for survival against giant creatures"
+  },
+  {
+    "id": "manga_006",
+    "title": "Demon Slayer",
+    "type": "manga",
+    "genres": ["action", "adventure", "supernatural"],
+    "mood": ["intense", "beautiful", "emotional"],
+    "rating": 8.6,
+    "description": "A boy trains to defeat demons and save his sister"
+  },
+  {
+    "id": "manga_007",
+    "title": "My Hero Academia",
+    "type": "manga",
+    "genres": ["action", "superhero", "comedy"],
+    "mood": ["inspiring", "fun", "thrilling"],
+    "rating": 8.3,
+    "description": "A powerless boy in a superhero world gains incredible powers"
+  },
+  {
+    "id": "manga_008",
+    "title": "Jojo's Bizarre Adventure",
+    "type": "manga",
+    "genres": ["action", "adventure", "supernatural"],
+    "mood": ["stylish", "intense", "cool"],
+    "rating": 8.1,
+    "description": "Multiple generations of a family battle enemies with supernatural powers"
+  }
+]

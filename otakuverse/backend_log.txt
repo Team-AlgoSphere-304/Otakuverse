@@ -1,0 +1,18 @@
+INFO:     Started server process [37536]
+INFO:     Waiting for application startup.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\Shriyansh Mishra\Documents\Codes\Projects\ai-agents-adk\.venv\lib\python3.12\site-packages\starlette\routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Shriyansh Mishra\Documents\Codes\Projects\ai-agents-adk\.venv\lib\python3.12\site-packages\starlette\routing.py", line 571, in __aenter__
+    await self._router.startup()
+  File "C:\Users\Shriyansh Mishra\Documents\Codes\Projects\ai-agents-adk\.venv\lib\python3.12\site-packages\starlette\routing.py", line 671, in startup
+    await handler()
+  File "C:\Users\Shriyansh Mishra\Documents\Codes\Projects\ai-agents-adk\otakuverse\api\server_fast.py", line 47, in startup_event
+    print("\U0001f680 Pre-caching all catalogs...")
+  File "C:\msys64\ucrt64\lib\python3.12\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
+
+ERROR:    Application startup failed. Exiting.

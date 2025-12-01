@@ -1,0 +1,74 @@
+[
+  {
+    "id": "novel_001",
+    "title": "The Hobbit",
+    "type": "novel",
+    "genres": ["fantasy", "adventure"],
+    "mood": ["epic", "fun", "inspiring"],
+    "rating": 8.3,
+    "description": "A hobbit embarks on an unexpected adventure to recover gold"
+  },
+  {
+    "id": "novel_002",
+    "title": "1984",
+    "type": "novel",
+    "genres": ["dystopian", "thriller", "political"],
+    "mood": ["dark", "intense", "thought-provoking"],
+    "rating": 8.7,
+    "description": "A totalitarian state uses surveillance to control its citizens"
+  },
+  {
+    "id": "novel_003",
+    "title": "Pride and Prejudice",
+    "type": "novel",
+    "genres": ["romance", "drama"],
+    "mood": ["romantic", "witty", "elegant"],
+    "rating": 8.5,
+    "description": "A woman navigates love and social expectations in 19th century England"
+  },
+  {
+    "id": "novel_004",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "type": "novel",
+    "genres": ["fantasy", "adventure"],
+    "mood": ["magical", "exciting", "heartwarming"],
+    "rating": 8.4,
+    "description": "A boy discovers he is a wizard and attends a magical school"
+  },
+  {
+    "id": "novel_005",
+    "title": "The Great Gatsby",
+    "type": "novel",
+    "genres": ["drama", "romance"],
+    "mood": ["romantic", "mysterious", "elegant"],
+    "rating": 8.3,
+    "description": "A mysterious millionaire pursues his lost love in the Jazz Age"
+  },
+  {
+    "id": "novel_006",
+    "title": "Dune",
+    "type": "novel",
+    "genres": ["sci-fi", "adventure", "political"],
+    "mood": ["epic", "intense", "complex"],
+    "rating": 8.6,
+    "description": "A young man becomes a leader on a desert planet"
+  },
+  {
+    "id": "novel_007",
+    "title": "The Lord of the Rings",
+    "type": "novel",
+    "genres": ["fantasy", "adventure", "epic"],
+    "mood": ["epic", "intense", "emotional"],
+    "rating": 9.0,
+    "description": "A hobbit must destroy a ring to save the world"
+  },
+  {
+    "id": "novel_008",
+    "title": "Brave New World",
+    "type": "novel",
+    "genres": ["sci-fi", "dystopian"],
+    "mood": ["thought-provoking", "dark", "intense"],
+    "rating": 8.5,
+    "description": "A dystopian future society controls happiness through drugs and conditioning"
+  }
+]

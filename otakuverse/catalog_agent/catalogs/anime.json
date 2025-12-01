@@ -1,0 +1,272 @@
+[
+  {
+    "id": "anime_001",
+    "title": "Attack on Titan",
+    "type": "anime",
+    "genres": ["action", "dark", "supernatural", "drama"],
+    "mood": ["intense", "thrilling", "dramatic"],
+    "rating": 9.0,
+    "description": "Humanity fights for survival against giant humanoid creatures"
+  },
+  {
+    "id": "anime_002",
+    "title": "Death Note",
+    "type": "anime",
+    "genres": ["thriller", "psychological", "supernatural", "drama"],
+    "mood": ["intense", "mind-bending", "suspenseful"],
+    "rating": 8.8,
+    "description": "A high school student finds a notebook that can kill anyone whose name is written in it"
+  },
+  {
+    "id": "anime_003",
+    "title": "Your Name",
+    "type": "anime",
+    "genres": ["romance", "fantasy", "supernatural", "drama"],
+    "mood": ["romantic", "emotional", "beautiful"],
+    "rating": 8.4,
+    "description": "Two strangers swap bodies repeatedly and work to prevent disaster"
+  },
+  {
+    "id": "anime_004",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "type": "anime",
+    "genres": ["action", "adventure", "fantasy", "drama"],
+    "mood": ["epic", "emotional", "inspiring"],
+    "rating": 9.1,
+    "description": "Two brothers seek the Philosopher's Stone to restore their bodies"
+  },
+  {
+    "id": "anime_005",
+    "title": "Demon Slayer",
+    "type": "anime",
+    "genres": ["action", "adventure", "supernatural", "drama"],
+    "mood": ["intense", "beautiful", "emotional"],
+    "rating": 8.7,
+    "description": "A boy joins a secret army to fight demons and save his sister"
+  },
+  {
+    "id": "anime_006",
+    "title": "One Punch Man",
+    "type": "anime",
+    "genres": ["action", "comedy", "superhero"],
+    "mood": ["funny", "thrilling", "cool"],
+    "rating": 8.4,
+    "description": "A hero who can defeat anyone with a single punch searches for worthy opponents"
+  },
+  {
+    "id": "anime_007",
+    "title": "Steins;Gate",
+    "type": "anime",
+    "genres": ["sci-fi", "thriller", "psychological", "drama"],
+    "mood": ["mind-bending", "intense", "dramatic"],
+    "rating": 9.0,
+    "description": "A microwave becomes a time machine and changes everything"
+  },
+  {
+    "id": "anime_008",
+    "title": "My Hero Academia",
+    "type": "anime",
+    "genres": ["action", "superhero", "comedy", "school"],
+    "mood": ["inspiring", "fun", "thrilling"],
+    "rating": 8.2,
+    "description": "A powerless boy attends a superhero academy and grows into a hero"
+  },
+  {
+    "id": "anime_009",
+    "title": "Neon Genesis Evangelion",
+    "type": "anime",
+    "genres": ["sci-fi", "mecha", "psychological", "drama"],
+    "mood": ["intense", "mind-bending", "emotional"],
+    "rating": 8.6,
+    "description": "Teenagers pilot giant robots to save humanity from mysterious beings"
+  },
+  {
+    "id": "anime_010",
+    "title": "Ergo Proxy",
+    "type": "anime",
+    "genres": ["sci-fi", "dystopian", "psychological"],
+    "mood": ["dark", "thoughtful", "intense"],
+    "rating": 8.1,
+    "description": "A girl escapes her dome city and encounters a mysterious android"
+  },
+  {
+    "id": "anime_011",
+    "title": "Cowboy Bebop",
+    "type": "anime",
+    "genres": ["sci-fi", "noir", "action", "comedy"],
+    "mood": ["cool", "mysterious", "fun"],
+    "rating": 8.9,
+    "description": "Space bounty hunters travel the galaxy in search of fugitives"
+  },
+  {
+    "id": "anime_012",
+    "title": "Code Geass",
+    "type": "anime",
+    "genres": ["action", "mecha", "supernatural", "drama"],
+    "mood": ["intense", "strategic", "dramatic"],
+    "rating": 8.5,
+    "description": "A student gains the power to command anyone and leads a rebellion"
+  },
+  {
+    "id": "anime_013",
+    "title": "The Promised Neverland",
+    "type": "anime",
+    "genres": ["thriller", "psychological", "adventure", "drama"],
+    "mood": ["suspenseful", "dark", "inspiring"],
+    "rating": 8.4,
+    "description": "Orphans discover their home is actually a farming facility and plan escape"
+  },
+  {
+    "id": "anime_014",
+    "title": "Tokyo Ghoul",
+    "type": "anime",
+    "genres": ["dark", "action", "supernatural", "drama"],
+    "mood": ["intense", "dark", "emotional"],
+    "rating": 8.0,
+    "description": "A student becomes a half-ghoul after an organ transplant and fights for survival"
+  },
+  {
+    "id": "anime_015",
+    "title": "Monster",
+    "type": "anime",
+    "genres": ["thriller", "psychological", "mystery", "drama"],
+    "mood": ["suspenseful", "dark", "thoughtful"],
+    "rating": 8.8,
+    "description": "A doctor pursues a dangerous criminal from his past across Europe"
+  },
+  {
+    "id": "anime_016",
+    "title": "Bleach",
+    "type": "anime",
+    "genres": ["action", "supernatural", "adventure"],
+    "mood": ["thrilling", "epic", "cool"],
+    "rating": 7.9,
+    "description": "A teenager gains the powers of a soul reaper and protects both worlds"
+  },
+  {
+    "id": "anime_017",
+    "title": "Naruto",
+    "type": "anime",
+    "genres": ["action", "adventure", "fantasy", "comedy"],
+    "mood": ["inspiring", "epic", "fun"],
+    "rating": 8.1,
+    "description": "A ninja dreams of becoming the strongest leader of his village"
+  },
+  {
+    "id": "anime_018",
+    "title": "One Piece",
+    "type": "anime",
+    "genres": ["adventure", "action", "fantasy", "comedy"],
+    "mood": ["fun", "epic", "inspiring"],
+    "rating": 8.3,
+    "description": "Pirates search for treasure while becoming friends and changing the world"
+  },
+  {
+    "id": "anime_019",
+    "title": "Vinland Saga",
+    "type": "anime",
+    "genres": ["action", "adventure", "historical", "drama"],
+    "mood": ["epic", "emotional", "intense"],
+    "rating": 8.9,
+    "description": "A young warrior seeks revenge but discovers a path of peace"
+  },
+  {
+    "id": "anime_020",
+    "title": "Jujutsu Kaisen",
+    "type": "anime",
+    "genres": ["action", "supernatural", "school", "drama"],
+    "mood": ["intense", "thrilling", "cool"],
+    "rating": 8.6,
+    "description": "A high schooler swallows a cursed finger and joins a secret society of sorcerers"
+  },
+  {
+    "id": "anime_021",
+    "title": "Mob Psycho 100",
+    "type": "anime",
+    "genres": ["comedy", "supernatural", "school", "drama"],
+    "mood": ["funny", "heartwarming", "emotional"],
+    "rating": 8.8,
+    "description": "A shy psychic boy navigates middle school while trying to control his powers"
+  },
+  {
+    "id": "anime_022",
+    "title": "Spy x Family",
+    "type": "anime",
+    "genres": ["comedy", "action", "adventure", "family"],
+    "mood": ["fun", "wholesome", "heartwarming"],
+    "rating": 8.7,
+    "description": "A spy, assassin, and telepath form a fake family for their missions"
+  },
+  {
+    "id": "anime_023",
+    "title": "Re:Zero",
+    "type": "anime",
+    "genres": ["fantasy", "psychological", "action", "drama"],
+    "mood": ["intense", "mind-bending", "emotional"],
+    "rating": 8.4,
+    "description": "A man gains the power to go back in time but loses his memory"
+  },
+  {
+    "id": "anime_024",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "type": "anime",
+    "genres": ["fantasy", "adventure", "comedy"],
+    "mood": ["fun", "wholesome", "epic"],
+    "rating": 7.8,
+    "description": "A man is reincarnated as a slime in a fantasy world and builds a kingdom"
+  },
+  {
+    "id": "anime_025",
+    "title": "Fruits Basket",
+    "type": "anime",
+    "genres": ["romance", "comedy", "supernatural", "school"],
+    "mood": ["wholesome", "heartwarming", "romantic"],
+    "rating": 8.5,
+    "description": "A girl discovers her classmates transform into animals of the zodiac"
+  },
+  {
+    "id": "anime_026",
+    "title": "A Silent Voice",
+    "type": "anime",
+    "genres": ["romance", "school", "drama"],
+    "mood": ["emotional", "heartwarming", "beautiful"],
+    "rating": 8.9,
+    "description": "A former bully seeks forgiveness from a deaf girl he bullied years ago"
+  },
+  {
+    "id": "anime_027",
+    "title": "Erased",
+    "type": "anime",
+    "genres": ["thriller", "mystery", "drama"],
+    "mood": ["suspenseful", "emotional", "intense"],
+    "rating": 8.5,
+    "description": "A man goes back in time to solve a murder and prevent tragedies"
+  },
+  {
+    "id": "anime_028",
+    "title": "Puella Magi Madoka Magica",
+    "type": "anime",
+    "genres": ["magical girl", "psychological", "drama"],
+    "mood": ["dark", "emotional", "intense"],
+    "rating": 8.3,
+    "description": "Girls make wishes but discover being magical girls comes at a terrible cost"
+  },
+  {
+    "id": "anime_029",
+    "title": "Great Teacher Onizuka",
+    "type": "anime",
+    "genres": ["comedy", "school", "drama"],
+    "mood": ["fun", "inspiring", "heartwarming"],
+    "rating": 8.2,
+    "description": "A former gang member becomes a teacher and transforms students' lives"
+  },
+  {
+    "id": "anime_030",
+    "title": "Parasyte",
+    "type": "anime",
+    "genres": ["horror", "sci-fi", "action", "psychological"],
+    "mood": ["intense", "dark", "thrilling"],
+    "rating": 8.2,
+    "description": "A boy shares his body with an alien parasite and discovers the truth"
+  }
+]

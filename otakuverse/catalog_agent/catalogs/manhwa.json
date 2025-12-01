@@ -1,0 +1,74 @@
+[
+  {
+    "id": "manhwa_001",
+    "title": "Solo Leveling",
+    "type": "manhwa",
+    "genres": ["action", "fantasy", "adventure"],
+    "mood": ["cool", "epic", "intense"],
+    "rating": 8.8,
+    "description": "A weak hunter gains the power to level up and becomes incredibly strong"
+  },
+  {
+    "id": "manhwa_002",
+    "title": "Tower of God",
+    "type": "manhwa",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "intense", "cool"],
+    "rating": 8.5,
+    "description": "A young boy climbs a mysterious tower to find his friend"
+  },
+  {
+    "id": "manhwa_003",
+    "title": "The God of High School",
+    "type": "manhwa",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["intense", "cool", "stylish"],
+    "rating": 8.4,
+    "description": "High school students compete in martial arts tournament"
+  },
+  {
+    "id": "manhwa_004",
+    "title": "Noblesse",
+    "type": "manhwa",
+    "genres": ["action", "mystery", "supernatural"],
+    "mood": ["cool", "intense", "stylish"],
+    "rating": 8.3,
+    "description": "An ancient noble awakens after 820 years of sleep"
+  },
+  {
+    "id": "manhwa_005",
+    "title": "Omniscient Reader's Viewpoint",
+    "type": "manhwa",
+    "genres": ["action", "adventure", "fantasy"],
+    "mood": ["epic", "intense", "mind-bending"],
+    "rating": 8.6,
+    "description": "A reader of a web novel is transported into the story"
+  },
+  {
+    "id": "manhwa_006",
+    "title": "Viral Hit",
+    "type": "manhwa",
+    "genres": ["action", "comedy", "drama"],
+    "mood": ["fun", "thrilling", "cool"],
+    "rating": 8.2,
+    "description": "A weak boy becomes famous through fighting videos"
+  },
+  {
+    "id": "manhwa_007",
+    "title": "Bastard",
+    "type": "manhwa",
+    "genres": ["thriller", "mystery", "crime"],
+    "mood": ["dark", "intense", "suspenseful"],
+    "rating": 8.5,
+    "description": "A girl discovers her adoptive father has a dark secret"
+  },
+  {
+    "id": "manhwa_008",
+    "title": "The Beginning After the End",
+    "type": "manhwa",
+    "genres": ["action", "fantasy", "adventure"],
+    "mood": ["epic", "cool", "inspiring"],
+    "rating": 8.4,
+    "description": "A powerful king is reborn in a magical world"
+  }
+]

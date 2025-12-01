@@ -1,0 +1,74 @@
+[
+  {
+    "id": "movie_001",
+    "title": "Inception",
+    "type": "movie",
+    "genres": ["sci-fi", "thriller", "action"],
+    "mood": ["mind-bending", "intense", "visually stunning"],
+    "rating": 8.8,
+    "description": "A thief who steals corporate secrets through dream sharing technology"
+  },
+  {
+    "id": "movie_002",
+    "title": "The Shawshank Redemption",
+    "type": "movie",
+    "genres": ["drama", "crime"],
+    "mood": ["inspiring", "emotional", "powerful"],
+    "rating": 9.3,
+    "description": "Two imprisoned men bond over decades, finding redemption through acts of common decency"
+  },
+  {
+    "id": "movie_003",
+    "title": "Interstellar",
+    "type": "movie",
+    "genres": ["sci-fi", "drama", "adventure"],
+    "mood": ["epic", "emotional", "awe-inspiring"],
+    "rating": 8.6,
+    "description": "A team of astronauts travel through a wormhole to ensure humanity's survival"
+  },
+  {
+    "id": "movie_004",
+    "title": "The Dark Knight",
+    "type": "movie",
+    "genres": ["action", "crime", "thriller"],
+    "mood": ["intense", "dark", "thrilling"],
+    "rating": 9.0,
+    "description": "Batman faces the Joker, a criminal mastermind who wants to plunge Gotham into anarchy"
+  },
+  {
+    "id": "movie_005",
+    "title": "Pulp Fiction",
+    "type": "movie",
+    "genres": ["crime", "drama"],
+    "mood": ["stylish", "intense", "clever"],
+    "rating": 8.9,
+    "description": "Multiple interconnected stories of Los Angeles mobsters, fringe players, and their associates"
+  },
+  {
+    "id": "movie_006",
+    "title": "Your Name (Movie)",
+    "type": "movie",
+    "genres": ["romance", "fantasy", "animation"],
+    "mood": ["romantic", "emotional", "beautiful"],
+    "rating": 8.4,
+    "description": "Two strangers find themselves swapping bodies repeatedly"
+  },
+  {
+    "id": "movie_007",
+    "title": "Gladiator",
+    "type": "movie",
+    "genres": ["action", "drama", "historical"],
+    "mood": ["epic", "intense", "powerful"],
+    "rating": 8.5,
+    "description": "A former Roman General becomes a slave and fights for revenge"
+  },
+  {
+    "id": "movie_008",
+    "title": "Parasite",
+    "type": "movie",
+    "genres": ["thriller", "drama"],
+    "mood": ["tense", "clever", "thought-provoking"],
+    "rating": 8.6,
+    "description": "A poor family schemes to make their way into the lives of a wealthy family"
+  }
+]
